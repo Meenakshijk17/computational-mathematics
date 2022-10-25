@@ -1,7 +1,6 @@
 # Computational Mathematics in Python
 
-This repo contains Python programs corresponding to some basic math-
-ematical theories. Basic libraries like NumPy, SciPy, matplotlib and SymPy
+This repo contains Python programs corresponding to some basic mathematical theories. Basic libraries like NumPy, SciPy, matplotlib and SymPy
 are used.
 
 ## Contents
