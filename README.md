@@ -4,7 +4,7 @@ This repo contains Python programs corresponding to some basic mathematical theo
 are used.
 
 ## Contents
-* Scientific Calculator: *To build a scientific calculator*
+* __Scientific Calculator__: *To build a scientific calculator*
 * Euclidean Algorithm: *To generate the steps of Euclidean algorithm for the division of integers*
 * Smallest Multiple: *To find the smallest number that can be divided by each of the numbers from 1 to j without any remainder*
 * Base Conversion: *To convert a positive integer to its binary correspondant*
